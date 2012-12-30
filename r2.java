@@ -2,7 +2,7 @@ import java.util.Vector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-class Parameter
+class  Parameter
 {
 	public String type;
 	public String name;
